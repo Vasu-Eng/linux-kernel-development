@@ -1,2 +1,2 @@
-# linux-kernel-development
+# linux-kernel-development for raspberry pi 5 custom BSPs :
 linux-kernel-development is a collection of hands-on Linux kernel engineering projects focused on embedded systems. This repository includes device driver development, kernel modules, Device Tree customization, BSP development, kernel image customization, kernel debugging, performance analysis, and other low-level Linux kernel experiments on ARM-based platforms such as the Raspberry Pi 5. It serves as a continuous learning and portfolio repository showcasing practical Linux kernel development for embedded applications.
